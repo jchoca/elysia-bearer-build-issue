@@ -1,6 +1,7 @@
 Run API
 
 ```bash
+bun install
 bun run build
 ./build
 ```
